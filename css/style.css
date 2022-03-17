@@ -38,10 +38,11 @@ p.b {
 hr.gray {
   border-top: 1px dashed gray;
 }
+
 a {
   text-decoration: none;
   }
-  
+
 a:hover { 
   text-decoration: underline;
 }
