@@ -39,6 +39,10 @@ hr.gray {
   border-top: 1px dashed gray;
 }
 
+a:visited {
+  color: blue;
+}
+
 a.doc {
   text-decoration: none;
   }
