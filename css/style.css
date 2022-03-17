@@ -39,10 +39,10 @@ hr.gray {
   border-top: 1px dashed gray;
 }
 
-a {
+a.doc {
   text-decoration: none;
   }
 
-a:hover { 
+a.doc:hover { 
   text-decoration: underline;
 }
