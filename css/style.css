@@ -31,7 +31,7 @@ p.a {
 
 table {
   font-family: serif;
-  font-size: 16pt;
+  font-size: normal;
   background-color: white;
   border-collapse: collapse;
   table-layout: fixed;
