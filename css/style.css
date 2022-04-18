@@ -29,10 +29,12 @@ p.a {
     font-family: 'Public Sans', sans-serif;
 }
 
-p.b {
+table {
   font-family: "Times New Roman", Times, serif;
   font-size: 16pt;
   background-color: white;
+  border-collapse: collapse;
+  width: 100%;
 }
 
 hr.gray {
