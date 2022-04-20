@@ -4,7 +4,7 @@
 
 .column {
   float: left;
-  width: 33.33%;
+  width: 25%;
   padding: 10px;
 }
 
@@ -30,7 +30,7 @@ p.a {
 }
 
 table {
-  font-family: serif;
+  font-family: sans-serif;
   font-size: normal;
   background-color: white;
   border-collapse: collapse;
