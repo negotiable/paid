@@ -5,7 +5,7 @@
 .column {
   float: left;
   width: 25%;
-  padding: 10px;
+  padding: 5px;
 }
 
 .row:after {
@@ -43,14 +43,3 @@ hr.gray {
   border-top: 1px dashed gray;
 }
 
-a:visited {
-  color: blue;
-}
-
-a.doc {
-  text-decoration: none;
-  }
-
-a.doc:hover { 
-  text-decoration: underline;
-}
