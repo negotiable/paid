@@ -5,7 +5,7 @@
 .column {
   float: left;
   width: 25%;
-  padding: 5px;
+  padding: 20px;
 }
 
 .row:after {
@@ -29,15 +29,16 @@ p.a {
     font-family: 'Public Sans', sans-serif;
 }
 
-table {
-  font-family: sans-serif;
-  font-size: 11pt;
-  background-color: white;
-  border-collapse: collapse;
-  table-layout: fixed;
-  word-wrap: break-word;
-  width: 100%;
+p.b {
+    font-size: 14pt;
+    font-family: serif;
 }
+
+a.doc {color: black; text-decoration: none;}
+a.doc:link {color: black;}
+a.doc:visited {color: black;}
+a.doc:hover {color: black; text-decoration: underline;}
+a.doc:active {color: black;}
 
 hr.gray {
   border-top: 1px dashed gray;
