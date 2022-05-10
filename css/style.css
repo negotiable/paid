@@ -44,7 +44,7 @@ hr.gray {
   border-top: 1px dashed gray;
 }
 
-iframe {
+iframe.b {
   pointer-events: none;
 	aspect-ratio: 4 / 6;
 	height: auto;
