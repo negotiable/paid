@@ -4,8 +4,8 @@
 
 .column {
   float: left;
-  width: 25%;
-  padding: 20px;
+  width: 33.33%;
+  padding: 50px;
 }
 
 .row:after {
