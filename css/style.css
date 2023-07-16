@@ -24,7 +24,7 @@ body {
     background-color: #e5ebef
 }
 
-p.a, li {
+p.a, li, ul {
     font-size: normal;
     font-family: 'Public Sans', sans-serif;
 }
